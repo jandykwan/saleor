@@ -13,3 +13,4 @@ All notable, unreleased changes to this project will be documented in this file.
 - Improve several payment validations - #3418 by @jxltom
 - Fix decimal value argument in GraphQL = #3457 by @fowczarek
 - Add error page if object was not found - #3463 by @dominik-zeglen
+- Bump `urllib3` and `elasticsearch` to latest versions - #3460 by @maarcingebala
