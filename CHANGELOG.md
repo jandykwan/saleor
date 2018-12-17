@@ -13,3 +13,4 @@ All notable, unreleased changes to this project will be documented in this file.
 - Improve several payment validations - #3418 by @jxltom
 - Fix decimal value argument in GraphQL = #3457 by @fowczarek
 - Bump `urllib3` and `elasticsearch` to latest versions - #3460 by @maarcingebala
+- Fix simple product's inventory data saving bug - #3474 by @dominik-zeglen
